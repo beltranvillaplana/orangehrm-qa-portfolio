@@ -6,13 +6,13 @@ Independent QA assessment of OrangeHRM, demonstrating test design, risk-based pr
 
 ### Manual Test Cases
 
-Documented test scenarios, organized by module.
+Browse test cases by module.
 
-| Module | Test Case | Scenario |
-| --- | --- | --- |
-| Admin · User Management | [ADM-TC-001](docs/test-cases/admin/ADM-TC-001.md) | Verify successful creation of an ESS user |
+| Module | Scope |
+| --- | --- |
+| [Admin — User Management](docs/test-cases/admin/) | User accounts, roles, permissions, and account status |
 
-**Current progress:** One manual test case published. Execution records and defect reports will be added as the assessment progresses.
+**Current progress:** Two manual test cases published in Admin. Execution records and defect reports will be added as the assessment progresses.
 
 ## About the Project
 
